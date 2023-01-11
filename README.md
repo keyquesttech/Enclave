@@ -7,4 +7,5 @@
 
 <p align="center"> <p align="center"> <a><img 
   src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"></a>
+  src="https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic"></a>
 </p>
