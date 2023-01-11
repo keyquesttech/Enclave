@@ -3,3 +3,4 @@
 </p>
 <h1 align="center" style="margin-top: -10px;">The Enclave project</h1>
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub<p>
+<p align="center" >Developed As Part Of My Industrial Design Thesis</p>
