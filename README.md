@@ -103,6 +103,11 @@ All files necessary for reproduction, manufacturing and modifications
 
 ## Case:
 
+| Branch | Content |
+|--|--|
+| Case_one_part.step| STEP file of for the case |
+| Case_one_part_Drawing.pdf| Technical drawings of the case |
+
 ## Suppliers:
 
 **Information on the service providers used for the project**
