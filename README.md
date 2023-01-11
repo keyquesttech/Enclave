@@ -6,6 +6,7 @@
 
 <div align="center" >
   
-  ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/encalave?style=plastic)
+  ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)
+  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/encalave?style=plastic)
   
 </div>
