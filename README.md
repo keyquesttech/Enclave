@@ -44,7 +44,6 @@
   - [STM](#STM)
   - [AVR](#AVR)
   - [Plate](#Plate)
-  - [Imgs](#Imgs)
 - [Case](#Case)
 - [Suppliers](#Suppliers)
 - [Contributing](#contributing)
@@ -102,11 +101,18 @@ All files necessary for reproduction, manufacturing and modifications
 | EasyEDA SRC| EasyEDA JSON PCB source file |
 | Plate Gerber| Production files |
 
-### Imgs:
-
 ## Case:
 
 ## Suppliers:
+
+**Information on the service providers used for the project**
+
+| Supplier| Contact| Thing |
+|--|--|-|
+| Elecrow| [Elecrow](https://www.elecrow.com/) | CNC machining
+| Elecrow| [Elecrow](https://www.elecrow.com/) | PCB manufacturing
+| Upwork| [Alberto M.](https://www.upwork.com/freelancers/~01b4ecb4cf82c98eb9) | PCB design
+| Alibaba| echo@hzyinzheng.com | Adhesive feet
 
 ## Contributing
 
