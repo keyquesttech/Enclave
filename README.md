@@ -86,6 +86,8 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### AVR:
 
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/81.png?raw=true" alt="STM PCB" align="center">
+
 | Branch | Content |
 |--|--|
 | Datasheet| Datasheet of components used |
