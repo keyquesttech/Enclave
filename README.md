@@ -6,6 +6,6 @@
 
 <div align="center" >
   
-  [![Build Status](https://img.shields.io/travis/codypearce/material-bread/master.svg?style=for-the-badge)]
+  [![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)]
   
 </div>
