@@ -6,5 +6,5 @@
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 
 <p align="center"> <h1 align="center">Status<h1> <p align="center"> <a><img 
-  src="![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic)"></a>
+  src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"></a>
 </p>
