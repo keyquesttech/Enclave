@@ -73,9 +73,10 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### STM:
 
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/42.jpg?raw=true" alt="STM PCB" align="center">
+
 | Branch | Content |
 |--|--|
-|<img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/42.jpg?raw=true" alt="STM PCB" align="center">|
 | 3D| PCB 3D files |
 | Datasheet| Datasheet of components used |
 | Docs| DXF of PCB outline |
