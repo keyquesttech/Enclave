@@ -1,4 +1,6 @@
+<p align="center">
 # The Enclave project / El proyecto Enclave
+</p>
 
 <p align="center">
     This project was developed in Mexico.
