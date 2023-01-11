@@ -73,6 +73,8 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### STM:
 
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/42.jpg?raw=true" alt="STM PCB" align="center">
+
 | Branch | Content |
 |--|--|
 | 3D| PCB 3D files |
@@ -83,6 +85,8 @@ All files necessary for reproduction, manufacturing and modifications
 | Enclave_stm_BOM.pdf| PDF Bill of materials|
 
 ### AVR:
+
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/81.png?raw=true" alt="STM PCB" align="center">
 
 | Branch | Content |
 |--|--|
@@ -95,6 +99,8 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### Plate:
 
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/85.jpg?raw=true" alt="STM PCB" align="center">
+
 | Branch | Content |
 |--|--|
 | DXF SRC| FR-4 Plate DXF source file |
@@ -102,6 +108,8 @@ All files necessary for reproduction, manufacturing and modifications
 | Plate Gerber| Production files |
 
 ## Case:
+
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/86.png?raw=true" align="center">
 
 | Branch | Content |
 |--|--|
