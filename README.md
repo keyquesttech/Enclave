@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
+  <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
 </p>
 <h1 align="center" style="margin-top: 0px;">The Enclave project</h1>
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub</p>
@@ -33,7 +33,7 @@
     <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
   </a>
 
-### Features
+### Features:
 
 - Lightweight.
 - Cherry MX Compatible.
