@@ -3,6 +3,7 @@
 </p>
 <h1 align="center" style="margin-top: 0px;">The Enclave project</h1>
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub Developed As Part Of My Industrial Design Thesis</p>
+<p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 
 <div align="center" >
   
