@@ -6,5 +6,5 @@
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 
 <div align="center" >
-  [![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)]
+  [![Build Status](https://img.shields.io/travis/codypearce/material-bread/master.svg?style=for-the-badge)]
 </div>
