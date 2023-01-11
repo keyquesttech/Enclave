@@ -9,3 +9,5 @@
   src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"><
   src="https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic"></
 </p>
+
+![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)
