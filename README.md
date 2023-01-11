@@ -5,6 +5,6 @@
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub<p>
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 
-<p align="center">
+<p align="center"> <p align="center"> <a><img 
   src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"></a>
 </p>
