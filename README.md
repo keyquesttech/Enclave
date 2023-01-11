@@ -1,7 +1,3 @@
-<p align="center">
-# The Enclave project / El proyecto Enclave
-
-<p align="center">
-    This project was developed in Mexico.
-    Some aspects of the project are in spanish with no translation to english provided.
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
 </p>
