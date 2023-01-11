@@ -96,6 +96,12 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### Plate:
 
+| Branch | Content |
+|--|--|
+| DXF SRC| FR-4 Plate DXF source file |
+| EasyEDA SRC| EasyEDA JSON PCB source file |
+| Plate Gerber| Production files |
+
 ### Imgs:
 
 ## Case:
