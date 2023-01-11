@@ -48,9 +48,6 @@
 - [Case](#Case)
 - [Suppliers](#Suppliers)
 - [Contributing](#contributing)
-  - [Library](#contribute-to-library)
-  - [Docs](#contribute-to-docs)
-  - [Easy Contribution](#easy-first-contribution)
 - [Copyright and License](#copyright-and-license)
 
 ## Features:
@@ -66,6 +63,15 @@
 
 ## Repo Content:
 
+All files necessary for reproduction, manufacturing and modifications
+
+| Branch | Content |
+|--|--|
+| AVR | Files for AVR (arduino) based PCB |
+| STM| Files for STM based PCB |
+| Plate| Files for FR-4 plate manufacturing |
+| Imgs| Images on this repo and product pics |
+
 ### STM:
 
 ### AVR:
@@ -80,21 +86,8 @@
 
 ## Contributing
 
-All contributions are welcome and encouraged. If you are reporting a bug, please follow the bug issue template. If you are proposing an enhancement, please first search the backlogs before creating a new issue.
-
-#### Contribute to library
-
-[Storybook](https://github.com/storybooks/storybook) is used as the dev environment for all components on all platforms. You can learn about how to get the storybook environment running locally for all platforms [here](http://material-bread.org/contributing/library). Please follow the conventions already in place. For example, most components follow the made up "props for prebuilt, children for custom" pattern. Additionally, make sure you are testing your components across platforms before making a PR.
-
-#### Contribute to docs
-
-Documentation is built using [GatsbyJs](https://github.com/gatsbyjs/gatsby) and all pages are built using react components. You can learn how to get the docs running locally [here](https://material-bread.org/contributing/docs).
-
-#### Easy first contribution
-
-You can start contribute extremely easily by improving demos or adding more interesting demos to the docs or storybook. Interesting, useful, and plentiful demos is a major goal of the project, so any help in that regard would be greatly appreciated.
+All contributions are welcome and encouraged.
 
 ## Copyright and License
 
-Copyright 2019 Material Bread.
-Code released under the MIT license.
+Released under the MIT license.
