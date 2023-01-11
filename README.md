@@ -28,11 +28,15 @@
 </p>
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://material-bread.org/getting-started/react-native">
+  <a href="https://github.com/keyquesttech/Encalave/tree/main/stm">
     <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
+  </a>
+ <a href="https://github.com/keyquesttech/Encalave/tree/main/avr">
     <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
   </a>
-
+  
+</p>
+  
 ### Features:
 
 - Lightweight.
