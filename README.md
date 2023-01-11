@@ -33,3 +33,10 @@
     <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
   </a>
 
+### Features
+
+- Highly Customizable React Native Components.
+- Cross platform support: React Native (iOS, Android), React-native-web (Browsers), Electron (Windows, Mac, Linux), react-native-windows, react-native-macos, Next.js, Expo, Vue Native
+- Support for Material Design 2.0 components.
+- Live react native demos you can edit in in your browser.
+- Typescript support
