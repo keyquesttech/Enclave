@@ -74,7 +74,25 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### STM:
 
+| Branch | Content |
+|--|--|
+| 3D| PCB 3D files |
+| Datasheet| Datasheet of components used |
+| Docs| DXF of PCB outline |
+| ZIP Full| KiCad full source file |
+| Enclave_stm_sch.pdf| PDF schematic |
+| Enclave_stm_BOM.pdf| PDF Bill of materials|
+
 ### AVR:
+
+| Branch | Content |
+|--|--|
+| Datasheet| Datasheet of components used |
+| Docs| DXF of PCB outline |
+| Production| Production files |
+| ZIP Full| KiCad full source file |
+| Enclave_avr_BOM.pdf| PDF Bill of materials|
+| Enclave_avr_sch.pdf| PDF schematic |
 
 ### Plate:
 
