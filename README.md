@@ -7,6 +7,6 @@
 
 
 <div align="center" >
-https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic
+[![Commits](https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic)]
 </div>
   
