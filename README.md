@@ -44,7 +44,6 @@
   - [STM](#STM)
   - [AVR](#AVR)
   - [Plate](#Plate)
-  - [Imgs](#Imgs)
 - [Case](#Case)
 - [Suppliers](#Suppliers)
 - [Contributing](#contributing)
@@ -96,11 +95,29 @@ All files necessary for reproduction, manufacturing and modifications
 
 ### Plate:
 
-### Imgs:
+| Branch | Content |
+|--|--|
+| DXF SRC| FR-4 Plate DXF source file |
+| EasyEDA SRC| EasyEDA JSON PCB source file |
+| Plate Gerber| Production files |
 
 ## Case:
 
+| Branch | Content |
+|--|--|
+| Case_one_part.step| STEP file of for the case |
+| Case_one_part_Drawing.pdf| Technical drawings of the case |
+
 ## Suppliers:
+
+**Information on the service providers used for the project**
+
+| Supplier| Contact| Thing |
+|--|--|-|
+| Elecrow| [Elecrow](https://www.elecrow.com/) | CNC machining
+| Elecrow| [Elecrow](https://www.elecrow.com/) | PCB manufacturing
+| Upwork| [Alberto M.](https://www.upwork.com/freelancers/~01b4ecb4cf82c98eb9) | PCB design
+| Alibaba| echo@hzyinzheng.com | Adhesive feet
 
 ## Contributing
 
