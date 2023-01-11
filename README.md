@@ -6,6 +6,6 @@
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 
 <p align="center"> <p align="center"> <a><img 
-  src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"></a>
-  src="https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic"></a>
+  src="https://img.shields.io/github/commit-activity/w/keyquesttech/Encalave?style=plastic"></
+  src="https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic"></
 </p>
