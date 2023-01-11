@@ -30,5 +30,5 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://material-bread.org/getting-started/react-native">
-    <img width="50" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
+    <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
   </a>
