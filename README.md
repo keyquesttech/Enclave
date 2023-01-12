@@ -46,9 +46,9 @@
   - [Plate](#Plate)
 - [Case](#Case)
 - [Code](#Code)
-  - [QMK Keyquest](#QMK_Keyquest)
-  - [VIA Keyquest](#VIA_Keyquest)
-  - [VIAL Keyquest](#VIAL_Keyquest)
+  - [QMK](#QMK)
+  - [VIA](#VIA)
+  - [VIAL](#VIAL)
 - [Suppliers](#Suppliers)
 - [Contributing](#contributing)
 - [Copyright and License](#copyright-and-license)
@@ -124,15 +124,15 @@ All files necessary for reproduction, manufacturing and modifications
 
 Source code files.
 
-### QMK Keyquest:
+### QMK:
 
 QMK code, just add to the kyeboards directory and compile or edit as desired. it's currently merged into main so it works on official website and tools.
 
-### VIA Keyquest:
+### VIA:
 
 VIA JSON. can be used for local upload of JSON but it's currently merged into main so it works on official website.
 
-### VIAL Keyquest:
+### VIAL:
 
 VIAL Source code, merged into main so it works when compiling official branch.
 
