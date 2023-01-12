@@ -130,7 +130,7 @@ QMK code, just add to the kyeboards directory and compile or edit as desired. it
 
 ### VIA:
 
-VIA JSON. can be used for local upload of JSON but it's currently merged into main so it works on official website.
+VIA can be used for local upload of JSON but it's currently merged into main so it works on official website.
 
 ### VIAL:
 
