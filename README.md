@@ -88,7 +88,7 @@ All files necessary for reproduction, manufacturing and modifications
 | Enclave_stm_sch.pdf| PDF schematic |
 | Enclave_stm_BOM.pdf| PDF Bill of materials|
 
-This verion of the PCB didn't work at first and it was forgotten in favor of AVR. Use at your own risk.
+This version of the PCB didn't work at first and it was forgotten in favor of AVR. Use at your own risk.
 
 ### AVR:
 
