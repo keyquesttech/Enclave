@@ -88,6 +88,8 @@ All files necessary for reproduction, manufacturing and modifications
 | Enclave_stm_sch.pdf| PDF schematic |
 | Enclave_stm_BOM.pdf| PDF Bill of materials|
 
+This verion of the PCB didn't work at first and it was forgotten in favor of AVR. Use at your own risk.
+
 ### AVR:
 
   <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/81.png?raw=true" alt="STM PCB" align="center">
