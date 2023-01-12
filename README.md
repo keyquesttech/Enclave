@@ -123,6 +123,9 @@ All files necessary for reproduction, manufacturing and modifications
 ## Code:
 
 Source code files.
+- [QMK repo](https://github.com/qmk/qmk_firmware)
+- [VIA repo](https://github.com/the-via/keyboards)
+- [VIAL repo]([https://github.com/the-via/keyboards](https://github.com/vial-kb/vial-qmk)
 
 ### QMK:
 
