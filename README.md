@@ -11,7 +11,7 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/encalave?style=plastic)
   ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/encalave?style=plastic)
-  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/keyquesttech/encalave/latest/total)
+  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/keyquesttech/enclave/AVR/total?style=plastic)
   
 </div>
   
