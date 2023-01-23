@@ -23,14 +23,6 @@
  <a href="https://www.behance.net/matiasms">
     <img width="100" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
   </a>
-  
-<p align="center" style="margin-bottom: 0px !important;">
-  <h2 align="center" style="margin-top: 0px;"></h2>
-</p>
-  
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="800" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/88.png?raw=true" alt="adf" align="center">
-</p>
 
 <p align="center" style="margin-top: 0px !important;">
   <h2 align="center" style="margin-bottom: 0px;">Versions And Repo Content</h2>
@@ -50,6 +42,10 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="800" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/88.png?raw=true" alt="adf" align="center">
+</p>
+
+<p align="center" style="margin-bottom: 0px !important;">
+  <h2 align="center" style="margin-top: 0px;"></h2>
 </p>
 
 - [Features](#Features)
