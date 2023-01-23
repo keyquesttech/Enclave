@@ -4,7 +4,9 @@
 <h1 align="center" style="margin-top: 0px;">The Enclave project</h1>
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub</p>
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
+<p align="center" >By Matias M</p>
 <p align="center" >Some Aspects Of This Project Are In Spanish</p>
+<p align="center" >[[Behance](https://www.behance.net/matiasms) - [Github](https://github.com/Mathiaszmrga)]</p>
 
 <div align="center" >
   
@@ -29,15 +31,15 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://github.com/keyquesttech/Encalave/tree/main/stm">
-    <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
+    <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
   </a>
  <a href="https://github.com/keyquesttech/Encalave/tree/main/avr">
-    <img width="100" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
+    <img width="400" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
   </a>
   
 </p>
 
-## Table of Contents
+## Table of Contents (Enclave-1)
 
 - [Features](#Features)
 - [Repo Content](#Repo-Content)
