@@ -18,10 +18,10 @@
   
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://github.com/Mathiaszmrga">
-    <img width="100" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/git.png?raw=true" alt="adf" align="center">
+    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/git.png?raw=true" alt="adf" align="center">
   </a>
  <a href="https://www.behance.net/matiasms">
-    <img width="100" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
+    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
   </a>
 
 <p align="center" style="margin-top: 0px !important;">
