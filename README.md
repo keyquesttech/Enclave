@@ -7,6 +7,14 @@
 <p align="center" >Some Aspects Of This Project Are In Spanish</p>
 <p align="center" >Developed by Matias M.</p>
 
+<p align="center" style="margin-bottom: 0px !important;">
+  <a href="https://github.com/Mathiaszmrga">
+    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/git.png?raw=true" alt="adf" align="center">
+  </a>
+ <a href="https://www.behance.net/matiasms">
+    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
+  </a>
+
 <div align="center" >
   
   ![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/encalave?style=plastic)
@@ -15,14 +23,6 @@
   ![GitHub release (latest by date)](https://img.shields.io/github/downloads/keyquesttech/enclave/AVR/total?style=plastic)
   
 </div>
-  
-<p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://github.com/Mathiaszmrga">
-    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/git.png?raw=true" alt="adf" align="center">
-  </a>
- <a href="https://www.behance.net/matiasms">
-    <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
-  </a>
   
 <p align="center" style="margin-top: 100px !important;">
   <h2 align="center" style="margin-bottom: 0px;">Versions And Repo Content</h2>
