@@ -28,10 +28,10 @@
 </p>
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://github.com/keyquesttech/Encalave/tree/main/stm">
+  <a href="https://github.com/keyquesttech/Enclave/tree/main/Enclave-1/stm">
     <img width="300" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-stm.png?raw=true" alt="adf" align="center">
   </a>
- <a href="https://github.com/keyquesttech/Encalave/tree/main/avr">
+ <a href="https://github.com/keyquesttech/Enclave/tree/main/Enclave-1/avr">
     <img width="300" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/bn-avr.png?raw=true" alt="adf" align="center">
   </a>
   
