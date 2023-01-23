@@ -6,7 +6,6 @@
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 <p align="center" >By Matias M</p>
 <p align="center" >Some Aspects Of This Project Are In Spanish</p>
-<p align="center" >[[Behance](https://www.behance.net/matiasms) - [Github](https://github.com/Mathiaszmrga)]</p>
 
 <div align="center" >
   
