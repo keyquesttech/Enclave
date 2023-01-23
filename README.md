@@ -23,8 +23,6 @@
  <a href="https://www.behance.net/matiasms">
     <img width="80" src="https://github.com/keyquesttech/Enclave/blob/main/imgs/behance.png?raw=true" alt="adf" align="center">
   </a>
-
-<p align="center" ></p>
   
 <p align="center" style="margin-top: 100px !important;">
   <h2 align="center" style="margin-bottom: 0px;">Versions And Repo Content</h2>
