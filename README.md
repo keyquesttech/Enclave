@@ -4,7 +4,9 @@
 <h1 align="center" style="margin-top: 0px;">The Enclave project</h1>
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub</p>
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
+<p align="center" >By Matias M</p>
 <p align="center" >Some Aspects Of This Project Are In Spanish</p>
+<p align="center" >[Behance](https://www.behance.net/matiasms) - [Github](https://github.com/Mathiaszmrga)</p>
 
 <div align="center" >
   
