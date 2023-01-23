@@ -46,10 +46,6 @@
   <img width="800" src="https://github.com/keyquesttech/Encalave/blob/main/imgs/88.png?raw=true" alt="adf" align="center">
 </p>
 
-<p align="center" style="margin-bottom: 0px !important;">
-  <h2 align="center" style="margin-top: 0px;"></h2>
-</p>
-
 - [Features](#Features)
 - [Repo Content](#Repo-Content)
   - [STM](#STM)
