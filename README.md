@@ -5,6 +5,7 @@
 <p align="center" >A Modular Multi Functional Macro-pad With Built In Usb Hub</p>
 <p align="center" >Developed As Part Of My Industrial Design Thesis</p>
 <p align="center" >Some Aspects Of This Project Are In Spanish</p>
+<p align="center" >Developed by Matias M.</p>
 
 <div align="center" >
   
@@ -14,8 +15,6 @@
   ![GitHub release (latest by date)](https://img.shields.io/github/downloads/keyquesttech/enclave/AVR/total?style=plastic)
   
 </div>
-  
-<h1 align="center" style="margin-top: 0px;">Developed by Matias M.</h1>
   
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://github.com/Mathiaszmrga">
